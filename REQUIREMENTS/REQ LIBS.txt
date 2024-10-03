@@ -1,0 +1,17 @@
+import face_recognition as r
+import cv2
+import webbrowser
+from tkinter import *
+import smtplib
+import tkinter.messagebox
+import pyautogui
+import mysql.connector as m
+from PIL import ImageTk
+from PIL import Image
+import time,os
+import csv
+from datetime import datetime
+import requests
+import mimetypes
+from bs4 import BeautifulSoup
+import customtkinter as ctk
